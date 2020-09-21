@@ -1,0 +1,68 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-image:url(image//blue-dna-wallpaper-digital-blue-dna-wallpaper-innovation-medicine-technology-concept-d-rendering-103143924.jpg);
+	background-repeat: no-repeat;
+	background-size:1370px 660px;
+	background-attachment:fixed;
+	font-family:new time roman;
+}
+h1{
+	font-size:40px;
+	color:white;
+	padding-top: 270px;
+}
+p{
+	font-size:21px;
+	color:white;
+}
+h3{
+	font-size:25px;
+	color:white;
+}
+hr{
+	  border: 0;
+  clear:both;
+  display:block;
+  width: 96%;               
+  background-color:#FFFF00;
+  height: 1px;
+
+}
+#reg{
+	background: rgba(0,0,0,0.5);
+}
+
+.dropin {
+	display: block;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 700;
+	color: #444;
+	line-height: 1.0;
+	padding: .6em 1.4em .5em .8em;
+	width: 100%;
+	max-width: 100%;
+	box-sizing: border-box;
+	margin: 0;
+	border: 1px solid #aaa;
+	box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+	border-radius: .5em;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;
+}
+input{
+	 background: transparent;
+	 border-radius:0px;
+	 border:0px;
+	 border-bottom: 1px solid white;
+	 color:white;
+}
+label{
+	color:white;
+	font-size:17px;
+	margin-top:5px;
+}
